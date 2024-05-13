@@ -5,7 +5,8 @@
 <hr>
 <div align="center">
 
-![terminal](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/f7a1ac82-f9e0-4f73-9918-80dcd8ccdadd)
+![terminal2](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/02077ea9-e223-43a5-af43-22b2e46568e9)
+
   
 </div>
 <hr>
