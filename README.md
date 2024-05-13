@@ -4,7 +4,7 @@
 
 <hr>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Slayer&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Slayer&theme=white-black)
 
 <hr>
 
