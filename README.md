@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Slayer's%20Den&fontSize=90&fontColor=000000&animation=fadeIn" />
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJava-Slayer%2Fhit-counter&count_bg=%23FF0000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false"/></a>
 
