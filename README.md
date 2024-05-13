@@ -1,3 +1,7 @@
+<h1>JAVA SLAYER's Den</h1>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJava-Slayer%2Fhit-counter&count_bg=%23FF0000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false"/></a>
+
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : tae8805@gmail.com
 <br> 사용 언어
 <br>
