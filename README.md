@@ -1,11 +1,13 @@
-<header>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Slayer's%20Den&fontSize=90&fontColor=000000&animation=fadeIn" />
-</header>
-
+<div align="center">
+  
+  ![title](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/150dda0e-ead4-4e30-ba2f-0b70f146ac9a)
+</div>
 <hr>
+<div align="center">
 
 ![terminal](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/f7a1ac82-f9e0-4f73-9918-80dcd8ccdadd)
-
+  
+</div>
 <hr>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Slayer&theme=white-black)
