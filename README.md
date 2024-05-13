@@ -4,6 +4,10 @@
 
 <hr>
 
+![terminal](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/f7a1ac82-f9e0-4f73-9918-80dcd8ccdadd)
+
+<hr>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Slayer&theme=white-black)
 
 <hr>
