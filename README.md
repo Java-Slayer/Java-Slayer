@@ -1,5 +1,5 @@
 <header>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Slayer's%20Den&fontSize=90&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=100&section=header&text=Slayer's%20Den&fontSize=90&fontColor=000000&animation=fadeIn" />
 </header>
 
 <hr>
