@@ -3,13 +3,6 @@
   ![title](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/150dda0e-ead4-4e30-ba2f-0b70f146ac9a)
 </div>
 <hr>
-<div align="center">
-
-![terminal2](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/02077ea9-e223-43a5-af43-22b2e46568e9)
-
-  
-</div>
-<hr>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Slayer&theme=white-black)
 
