@@ -3,9 +3,7 @@
   ![title](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/150dda0e-ead4-4e30-ba2f-0b70f146ac9a)
 </div>
 <hr>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Slayer&theme=white-black)
-
+![banner](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/ace48152-4d1a-41d6-bed0-4641debfa9fb)
 <hr>
 
 <details>
