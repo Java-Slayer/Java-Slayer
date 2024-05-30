@@ -1,11 +1,9 @@
 <div align="center">
   
-  ![title](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/150dda0e-ead4-4e30-ba2f-0b70f146ac9a)
+  ![banner](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/a85b6411-367c-4df2-abf4-d789d8fa941f)
+  
 </div>
 <hr>
-![banner](https://github.com/Java-Slayer/Java-Slayer/assets/169140049/ace48152-4d1a-41d6-bed0-4641debfa9fb)
-<hr>
-
 <details>
   <summary>
     Skills
